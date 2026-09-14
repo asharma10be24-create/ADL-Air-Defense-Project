@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large datasets
+classification_dataset/
+Air_Defense_Object_Detection_Dataset_(YOLOv8)/images/
+Air_Defense_Object_Detection_Dataset_(YOLOv8)/labels/
+
+# Model weights
+*.pt
+*.pth
+
+# Training outputs
+runs/
+aerial_target_project/
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
