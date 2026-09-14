@@ -21,4 +21,6 @@ aerial_target_project/
 .DS_Store
 
 # Jupyter
-.ipynb_checkpoints/
+.ipynb_checkpoints/Air_Defense_Object_Detection_Dataset_(YOLOv8)/
+
+/Air_Defense_Object_Detection_Dataset_(YOLOv8)/
