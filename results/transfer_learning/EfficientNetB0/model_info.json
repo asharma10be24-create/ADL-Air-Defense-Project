@@ -1,0 +1,17 @@
+{
+    "model": "EfficientNetB0",
+    "num_classes": 4,
+    "classes": [
+        "f16",
+        "helicopter",
+        "quadcopter",
+        "rocket"
+    ],
+    "image_size": 224,
+    "batch_size": 16,
+    "epochs": 5,
+    "learning_rate": 0.001,
+    "device": "mps",
+    "pretrained": true,
+    "backbone_frozen": true
+}

@@ -1,0 +1,15 @@
+{
+    "model": "Base CNN",
+    "classes": [
+        "f16",
+        "helicopter",
+        "quadcopter",
+        "rocket"
+    ],
+    "image_size": 128,
+    "batch_size": 32,
+    "epochs": 20,
+    "learning_rate": 0.001,
+    "device": "mps",
+    "best_validation_accuracy": 0.7232227488151659
+}

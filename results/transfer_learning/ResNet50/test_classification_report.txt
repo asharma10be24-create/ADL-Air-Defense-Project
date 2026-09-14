@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+         f16       0.95      0.90      0.92       351
+  helicopter       0.61      0.68      0.64       177
+  quadcopter       0.78      0.72      0.75       275
+      rocket       0.87      0.93      0.90       269
+
+    accuracy                           0.83      1072
+   macro avg       0.80      0.81      0.80      1072
+weighted avg       0.83      0.83      0.83      1072
